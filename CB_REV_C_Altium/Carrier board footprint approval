@@ -8,7 +8,6 @@ ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST
 Please add a new line after the previous....
 
 Serial Number |Company Name       |Name of person registering   |Link to company    |Description of use               |Git name of person filling this in   
-
 CB0000001     |3DRobotics         |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
 CB0000002     |3DRobotics         |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
 CB0000003     |Hex                |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
@@ -121,3 +120,4 @@ CB0000109     |Flyfocus           |Julian Zyromski              |www.flyfocus.pl
 CB0000110     |Airvolute          |Lukas Palkovic               |www.airvolute.com  |DronCore.Suite - full autonomous solution with Jetson |lupal1
 CB0000111     |SkySpecs           |Sam DeBruin                  |www.skyspecs.com   |Custom Carrier Board             |sdebruinss 
 CB0000112     |Camflite           |Paul Gentile                 |www.camflite.com   |Custome Carrier Board            |gsrobotics
+              |Fortem Technologies|Patrick Fitzgerald           |fortemtech.com     |Custom Carrier board for drone   |pfitzger8828
